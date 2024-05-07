@@ -1,0 +1,50 @@
+#displaybar
+{
+  border: 1px solid;
+  border-color: rgb(167, 4, 227);
+  border-radius: 4px;
+ width: 140px;
+ height: 225px;
+ background-color: rgb(96, 207, 247);
+}
+#display
+{
+  border: 1px solid;
+  border-color: rgb(65, 184, 47);
+  border-radius: 4px;
+  background-color: aquamarine;
+  margin-top: 7px;
+   width: 125px;
+   height: 30px;
+ margin-bottom: 4px;
+ align-content: center;
+
+
+}
+.buttons
+{
+  margin-left: 10px;
+  width: 27px; 
+  height:27px;
+  border-color: black;
+
+  margin-top: 1px;
+  background-color:rgb(239, 77, 77);
+  border: solid;
+  border-width: 1px;
+  border-radius: 50px;
+color: white;
+  cursor: pointer;
+ 
+
+
+}
+
+.buttoncontainers
+{
+    
+  display: flex;
+ justify-content: center;
+  
+}
+ 
